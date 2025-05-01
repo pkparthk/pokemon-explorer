@@ -2,7 +2,7 @@
 
 A modern, interactive Pokémon exploration platform built with React, TypeScript, and Tailwind CSS. This application showcases advanced React patterns, smooth animations, and responsive design while providing an engaging user experience for exploring Pokémon data.
 
-<!-- ![Pokémon Explorer](https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) -->
+![Pokémon Explorer](https://images.pexels.com/photos/1310847/pexels-photo-1310847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
 ## 🌟 Features
 
