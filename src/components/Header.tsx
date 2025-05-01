@@ -15,7 +15,7 @@ const Header: React.FC<HeaderProps> = ({ searchTerm, onSearchChange }) => {
     <header className="bg-gradient-to-r from-red-600 to-red-500 text-white shadow-md sticky top-0 z-10">
       <div className="container mx-auto py-4 px-4 sm:px-6">
         <div className="flex flex-col sm:flex-row justify-between items-center">
-          {/* Clickable Logo + Title */}
+          
           <button
             onClick={handleLogoClick}
             className="flex items-center gap-x-3 mb-4 sm:mb-0 transform transition-transform duration-300 hover:scale-105 active:scale-95 focus:outline-none"
@@ -30,8 +30,7 @@ const Header: React.FC<HeaderProps> = ({ searchTerm, onSearchChange }) => {
               Pokémon Explorer
             </h1>
           </button>
-
-          {/* Search Input */}
+          
           <div className="relative w-full sm:w-64 md:w-80">
             <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
               <Search className="h-5 w-5 text-gray-200" />
